@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夏の影",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-09T12:43:50.846857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏の影",
+      "artist": "Kinokoteikoku",
+      "has_synced": false,
+      "path": "select/01_夏の影_Kinokoteikoku.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏の影",
+      "artist": "きのこ帝国",
+      "has_synced": true,
+      "path": "select/02_夏の影_きのこ帝国.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏の影 - Summer Shadow",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_夏の影_-_Summer_Shadow_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏の影",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_夏の影_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏の影",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_夏の影_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
